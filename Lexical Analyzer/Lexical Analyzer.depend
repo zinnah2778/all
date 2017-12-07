@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512626365 source:c:\users\zinnah\desktop\lexical analyzer\lexical analyzer\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
